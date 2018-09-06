@@ -6,5 +6,6 @@ public class HelloWorld {
         System.out.println("For alter");
         System.out.println("40");
         System.out.println("5");
+        System.out.println("GIT alter");
     }
 }
